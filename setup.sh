@@ -82,6 +82,7 @@ validate_supported_kernel()
         "Ubuntu 18.04 kernel 5.4"
         "Ubuntu 20.04 kernel 5.11" "Ubuntu 20.04 kernel 5.4" "Ubuntu 20.04 kernel 5.13"
         "Ubuntu 22.04 kernel 5.15"
+        "Ubuntu 22.04 kernel 6.2"
         "Red Hat 7.8 kernel 4.9.184"
         "Amazon Linux 2 kernel 4.14" "Amazon Linux 2 kernel 5.10"
     )
